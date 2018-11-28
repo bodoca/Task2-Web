@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9231" started-at="2018-11-28T01:16:26Z" finished-at="2018-11-28T01:16:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9231" started-at="2018-11-28T01:16:26Z" finished-at="2018-11-28T01:16:35Z">
+      <class name="WebTesting.WebTestCases">
+        <test-method status="PASS" signature="configurations()[pri:0, instance:WebTesting.WebTestCases@5c7fa833]" name="configurations" is-config="true" duration-ms="4936" started-at="2018-11-28T01:16:26Z" finished-at="2018-11-28T01:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configurations -->
+        <test-method status="PASS" signature="navigateToWeb()[pri:1, instance:WebTesting.WebTestCases@5c7fa833]" name="navigateToWeb" duration-ms="3281" started-at="2018-11-28T01:16:31Z" finished-at="2018-11-28T01:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWeb -->
+        <test-method status="PASS" signature="validateUsersTableDisplayed()[pri:2, instance:WebTesting.WebTestCases@5c7fa833]" name="validateUsersTableDisplayed" duration-ms="168" started-at="2018-11-28T01:16:34Z" finished-at="2018-11-28T01:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUsersTableDisplayed -->
+        <test-method status="PASS" signature="showAddScreen()[pri:3, instance:WebTesting.WebTestCases@5c7fa833]" name="showAddScreen" duration-ms="0" started-at="2018-11-28T01:16:34Z" finished-at="2018-11-28T01:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showAddScreen -->
+        <test-method status="PASS" signature="addUsers()[pri:4, instance:WebTesting.WebTestCases@5c7fa833]" name="addUsers" duration-ms="0" started-at="2018-11-28T01:16:34Z" finished-at="2018-11-28T01:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUsers -->
+        <test-method status="PASS" signature="closeConnection()[pri:0, instance:WebTesting.WebTestCases@5c7fa833]" name="closeConnection" is-config="true" duration-ms="811" started-at="2018-11-28T01:16:34Z" finished-at="2018-11-28T01:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnection -->
+      </class> <!-- WebTesting.WebTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
